@@ -12,9 +12,9 @@ function Homer() {
             {/* HERO SECTION  */}
             <div className="homer">
                 
-            <div className="app">
-                        <Carousel images={tagline} />
-                    </div>
+                <div className="app">
+                    <Carousel images={tagline} />
+                </div>
                     
                     
 
